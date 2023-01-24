@@ -1,4 +1,4 @@
-# PRIME CUISINE: FOOD ORDERING WEB APPLICATION
+# FOODIE: FOOD ORDERING WEB APPLICATION
 
 ## About The Project 
 
@@ -8,7 +8,7 @@ This is a food ordering web application. It grants user access to their dashboar
 
 
 ## Design Inspiration for the main page but with a little twitch 🤭
-![Prime Cuisine: food ordering app design](design.png) 
+![Foodie: food ordering app design](design.png) 
 
 
 ## Technologies Used

@@ -24,7 +24,7 @@ This is a food ordering web application. It grants user access to their dashboar
 
 ## Developer
 
-Developed by Juliet Oma
+Developed by Muhammad Bilal Ahmed 
 
 
 ## Sidebar Navigation 🔍
@@ -36,10 +36,3 @@ Developed by Juliet Oma
 - FAQs
 - Logout/Login (Not functional yet)
 
-
-
-## App Links 
-
-Production Website Link: ()
-
-Project Github Repo Link: (https://github.com/OmaJuliet/FOOD-ORDERING-APP.git)
